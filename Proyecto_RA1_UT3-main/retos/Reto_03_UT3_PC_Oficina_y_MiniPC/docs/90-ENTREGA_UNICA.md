@@ -16,6 +16,8 @@
 ## 2) Opción A — PC por piezas (PASO 1–7)
 # Opción A — PC de oficina por piezas (PASO 1–7)
 
+# Opción A — PC de oficina por piezas (PASO 1–7)
+
 ## PASO 1 — CPU con gráficos integrados
 
 **Componente elegido:**  
@@ -37,7 +39,7 @@
 
 **Compatibilidad (obligatorio, con enlaces):**  
 - Socket LGA 1700 con Biostar H610MHC‑20  
-  - [Evidencia](https://www.pcmontajes.com/componentes-placas-base/41298-biostar-placa-base-h610mhc-2-0-ddr4-matx-lga1700-4712960688278.html)  
+  - [Evidencia](https://www.biostar.com.tw/app/es/mb/introduction.php?S_ID=1175&data-type=SPECIFICATIONS)  
 - Soporta DDR4‑3200 compatible con la RAM elegida  
   - [Evidencia](https://www.intel.com/content/www/us/en/products/sku/236774/intel-core-i3-processor-14100-12m-cache-up-to-4-70-ghz/specifications.html)
 
@@ -51,7 +53,7 @@
 - **URL tienda:** [Biostar H610MHC‑20 en PCComponentes](https://www.pccomponentes.com/placa-base-biostar-h610mhc-20-h610-lga1700-ddr4-micro-atx-gigabit-ethernet-m2)
 
 **Ficha técnica oficial (obligatorio):**  
-- [Ficha técnica Biostar H610MHC‑20](https://www.pcmontajes.com/componentes-placas-base/41298-biostar-placa-base-h610mhc-2-0-ddr4-matx-lga1700-4712960688278.html)
+- [Ficha técnica Biostar H610MHC‑20](https://www.biostar.com.tw/app/es/mb/introduction.php?S_ID=1175&data-type=SPECIFICATIONS)
 
 **Características principales (resumen):**  
 - Chipset Intel H610, Micro‑ATX, socket LGA 1700  
@@ -64,32 +66,31 @@
 
 **Compatibilidad (obligatorio, con enlaces):**  
 - Soporta socket LGA 1700 para i3‑14100  
-  - [Evidencia](https://www.pcmontajes.com/componentes-placas-base/41298-biostar-placa-base-h610mhc-2-0-ddr4-matx-lga1700-4712960688278.html)  
+  - [Evidencia](https://www.biostar.com.tw/app/es/mb/introduction.php?S_ID=1175&data-type=SPECIFICATIONS)  
 - Compatible con RAM DDR4‑3200 Lexar  
-  - [Evidencia](https://www.pcmontajes.com/componentes-placas-base/41298-biostar-placa-base-h610mhc-2-0-ddr4-matx-lga1700-4712960688278.html)
+  - [Evidencia](https://www.biostar.com.tw/app/es/mb/introduction.php?S_ID=1175&data-type=SPECIFICATIONS)
 
 ---
 
 ## PASO 3 — Memoria RAM (mínimo 8 GB)
 
 **Componente elegido:**  
-- **Marca y modelo:** Lexar LD4AU008G‑B3200GSST 8 GB DDR4  
-- **Precio (€):** 55,05€
-- **URL tienda:** [Lexar 8 GB DDR4‑3200](https://www.pccomponentes.com/memoria-ram-modulo-de-memoria-lexar-ld4au008g-b3200gsst-8gb-ddr4-3200mhz-288-pin-dimm-cl22-pc?refurbished)
+- **Marca y modelo:** Crucial CT8G4DFRA32A DDR4
+- **Precio (€):** 79,99€
+- **URL tienda:** [Crucial CT8G4DFRA32A DDR4](https://www.pccomponentes.com/crucial-ct8g4dfra32a-ddr4-3200mhz-pc4-25600-8gb-cl22)
 
 **Ficha técnica oficial (obligatorio):**  
-- [Ficha técnica Lexar DDR4‑3200](https://www.pccomponentes.com/memoria-ram-modulo-de-memoria-lexar-ld4au008g-b3200gsst-8gb-ddr4-3200mhz-288-pin-dimm-cl22-pc)
+- [Ficha técnica Memoria RAM Crucial SO-DIMM DDR4](https://www.crucial.es/memory/ddr4/ct8g4dfra32a)
 
 **Características principales (resumen):**  
 - 8 GB DDR4‑3200, latencia CL22, 1,2 V  
-- Formato DIMM 288‑pin
 
 **Justificación (oficina):**  
 - Suficiente para tareas de oficina, navegación y multimedia ligera. Permite multitarea básica.
 
 **Compatibilidad (obligatorio, con enlaces):**  
 - Compatible con Biostar H610MHC‑20  
-  - [Evidencia](https://www.pcmontajes.com/componentes-placas-base/41298-biostar-placa-base-h610mhc-2-0-ddr4-matx-lga1700-4712960688278.html)  
+  - [Evidencia](https://www.biostar.com.tw/app/es/mb/introduction.php?S_ID=1175&data-type=SPECIFICATIONS)  
 - Compatible con Intel i3‑14100 DDR4‑3200  
   - [Evidencia](https://www.intel.com/content/www/us/en/products/sku/236774/intel-core-i3-processor-14100-12m-cache-up-to-4-70-ghz/specifications.html)
 
@@ -103,7 +104,7 @@
 - **URL tienda:** [Silicon Power A55 256 GB](https://www.pccomponentes.com/silicon-power-a55-256gb-ssd-m2-2280-sata-iii)
 
 **Ficha técnica oficial (obligatorio):**  
-- [Ficha técnica SSD A55](https://www.pccomponentes.com/silicon-power-a55-256gb-ssd-m2-2280-sata-iii)
+- [Ficha técnica SSD A55](https://www.silicon-power.com/product-detail/M2_2280_A55/)
 
 **Características principales (resumen):**  
 - SSD M.2 2280 SATA III, hasta 460 MB/s lectura, 450 MB/s escritura  
@@ -114,7 +115,7 @@
 
 **Compatibilidad (obligatorio, con enlaces):**  
 - Ranura M.2 de Biostar H610MHC‑20  
-  - [Evidencia](https://www.pcmontajes.com/componentes-placas-base/41298-biostar-placa-base-h610mhc-2-0-ddr4-matx-lga1700-4712960688278.html)
+  - [Evidencia](https://www.biostar.com.tw/app/es/mb/introduction.php?S_ID=1175&data-type=SPECIFICATIONS)
 
 ---
 
@@ -126,7 +127,8 @@
 - **URL tienda:** [Tacens Anima 750 W](https://www.pccomponentes.com/fuente-alimentacion-tacens-anima-apiii750-fuente-alimentacion-atx-750w-85-bronze-ventilador-12cm-negro)
 
 **Ficha técnica oficial (obligatorio):**  
-- Información técnica disponible en tienda (ATX 750 W, 85+ Bronze)
+- [Tacens Anima](https://tacens.es/fuentes/apiii750)
+- ![Ficha](../assets/img/APIIl750-FICHA-ES.pdf "Fuente")
 
 **Características principales (resumen):**  
 - Potencia 750 W, certificación 85+ Bronze  
@@ -137,7 +139,7 @@
 
 **Compatibilidad (obligatorio, con enlaces):**  
 - Compatible con ATX estándar para placa y chasis  
-  - [Evidencia](https://www.pccomponentes.com/fuente-alimentacion-tacens-anima-apiii750-fuente-alimentacion-atx-750w-85-bronze-ventilador-12cm-negro)
+  - [Evidencia](https://www.biostar.com.tw/app/es/mb/introduction.php?S_ID=1175&data-type=SPECIFICATIONS)
 
 ---
 
@@ -149,7 +151,7 @@
 - **URL tienda:** [Einarex Pulse P100](https://www.pccomponentes.com/torre-pc-caja-einarex-pulse-p100-core-atx-vidrio-templado-soporte-6-ventiladores-negra?refurbished)
 
 **Ficha técnica oficial (obligatorio):**  
-- Información técnica en tienda: Micro/ATX y ATX soportado, hasta 6 ventiladores
+- [Einarex Pulse P100](https://einarex.com/product/pulse-p100/)
 
 **Características principales (resumen):**  
 - Torre ATX con ventana de vidrio templado  
@@ -161,7 +163,7 @@
 
 **Compatibilidad (obligatorio, con enlaces):**  
 - Compatible con Micro‑ATX Biostar H610MHC‑20  
-  - [Evidencia](https://www.pccomponentes.com/torre-pc-caja-einarex-pulse-p100-core-atx-vidrio-templado-soporte-6-ventiladores-negra)
+  - [Evidencia](https://einarex.com/product/pulse-p100/)
 
 ---
 
@@ -171,15 +173,16 @@
 |---|---|---:|---|
 | CPU | Intel Core i3‑14100 | 169,90 | [Link](https://www.pccomponentes.com/intel-core-i3-14100-35-47ghz-box) |
 | Placa base | Biostar H610MHC 2.0 | 61,27 | [Link](https://www.pccomponentes.com/placa-base-biostar-h610mhc-20-h610-lga1700-ddr4-micro-atx-gigabit-ethernet-m2) |
-| RAM | Lexar 8 GB DDR4‑3200 |55,05€ | [Link](https://www.pccomponentes.com/memoria-ram-modulo-de-memoria-lexar-ld4au008g-b3200gsst-8gb-ddr4-3200mhz-288-pin-dimm-cl22-pc?refurbished) |
+| RAM | Lexar 8 GB DDR4‑3200 |79,99€ | [Link](https://www.pccomponentes.com/crucial-ct8g4dfra32a-ddr4-3200mhz-pc4-25600-8gb-cl22) |
 | SSD | Silicon Power A55 256 GB | 51,99€ | [Link](https://www.pccomponentes.com/silicon-power-a55-256gb-ssd-m2-2280-sata-iii) |
 | PSU | Tacens Anima APIII750 750 W | 29,90 | [Link](https://www.pccomponentes.com/fuente-alimentacion-tacens-anima-apiii750-fuente-alimentacion-atx-750w-85-bronze-ventilador-12cm-negro) |
 | Chasis | Einarex Pulse P100 Core ATX | 32,85 | [Link](https://www.pccomponentes.com/torre-pc-caja-einarex-pulse-p100-core-atx-vidrio-templado-soporte-6-ventiladores-negra?refurbished) |
-| **TOTAL** |  | **400,96€** |  |
+| **TOTAL** |  | **425,9€** |  |
 
 **Justificación final:**  
 - Precio ajustado, consumo bajo, suficiente potencia para oficina y multimedia ligera.  
 - Posibilidad de ampliación futura: añadir RAM, SSD o GPU discreta si se desea.
+
 
 
 
@@ -228,7 +231,7 @@
 
 | Aspecto | Opción A (por piezas) | Opción B (Mini PC) |
 |---|---|---|
-| Precio total | 400,96 € | 139 € |
+| Precio total | 425,9€ | 139 € |
 | Rendimiento esperado (oficina) |CPU moderno (i3‑14100), ágil en multitarea, multimedia ligera |CPU básico (Intel J3710) suficiente para tareas básicas, web y ofimática |
 | Ampliación (RAM/SSD) | Se puede ampliar RAM, añadir SSD o GPU discreta | SSD ampliable, RAM fija a 8 GB |
 | Consumo/ruido/espacio | Mayor — torre con ventiladores, más consumo | Muy bajo — compacto, silencioso y eficiente |
@@ -240,14 +243,16 @@
 ## 4) Checklist de compatibilidad
 ### Opción A (por piezas)
 
+### Opción A (por piezas)
+
 | Compatibilidad | Evidencia (enlace) | OK |
 |---|---|:--:|
-| CPU ↔ Placa base (socket/chipset soportado) | [Intel Core i3‑14100 specs](https://www.intel.com/content/www/us/en/products/sku/236774/intel-core-i3-processor-14100-12m-cache-up-to-4-70-ghz/specifications.html) + [Biostar H610MHC‑20](https://www.pcmontajes.com/componentes-placas-base/41298-biostar-placa-base-h610mhc-2-0-ddr4-matx-lga1700-4712960688278.html) | ✅ |
-| RAM ↔ Placa base (DDR4/DDR5, velocidad soportada) | [Lexar DDR4‑3200](https://www.pccomponentes.com/memoria-ram-modulo-de-memoria-lexar-ld4au008g-b3200gsst-8gb-ddr4-3200mhz-288-pin-dimm-cl22-pc) + [Biostar H610MHC‑20](https://www.pcmontajes.com/componentes-placas-base/41298-biostar-placa-base-h610mhc-2-0-ddr4-matx-lga1700-4712960688278.html) | ✅ |
-| SSD ↔ Placa base (SATA o M.2; NVMe vs SATA) | [Silicon Power A55 256 GB M.2 SATA](https://www.pccomponentes.com/silicon-power-a55-256gb-ssd-m2-2280-sata-iii) + [Biostar H610MHC‑20 M.2 slot](https://www.pcmontajes.com/componentes-placas-base/41298-biostar-placa-base-h610mhc-2-0-ddr4-matx-lga1700-4712960688278.html) | ✅ |
+| CPU ↔ Placa base (socket/chipset soportado) | [Intel Core i3‑14100 specs](https://www.intel.com/content/www/us/en/products/sku/236774/intel-core-i3-processor-14100-12m-cache-up-to-4-70-ghz/specifications.html) + [Biostar H610MHC‑20](https://www.biostar.com.tw/app/es/mb/introduction.php?S_ID=1175&data-type=SPECIFICATIONS) | ✅ |
+| RAM ↔ Placa base (DDR4/DDR5, velocidad soportada) | [Crucial CT8G4DFRA32A DDR4](https://www.crucial.es/memory/ddr4/ct8g4dfra32a) + [Biostar H610MHC‑20](https://www.biostar.com.tw/app/es/mb/introduction.php?S_ID=1175&data-type=SPECIFICATIONS) | ✅ |
+| SSD ↔ Placa base (SATA o M.2; NVMe vs SATA) | [Silicon Power A55 256 GB M.2 SATA](https://www.silicon-power.com/product-detail/M2_2280_A55/) + [Biostar H610MHC‑20 M.2 slot](https://www.biostar.com.tw/app/es/mb/introduction.php?S_ID=1175&data-type=SPECIFICATIONS) | ✅ |
 | PSU ↔ Placa base (24-pin ATX, EPS 8-pin si aplica) | [Tacens Anima APIII750](https://www.pccomponentes.com/fuente-alimentacion-tacens-anima-apiii750-fuente-alimentacion-atx-750w-85-bronze-ventilador-12cm-negro) + estándar ATX | ✅ |
-| Chasis ↔ Placa base (ATX/mATX/ITX) | [Einarex Pulse P100 Core ATX](https://www.pccomponentes.com/torre-pc-caja-einarex-pulse-p100-core-atx-vidrio-templado-soporte-6-ventiladores-negra) + Micro‑ATX Biostar H610MHC‑20 | ✅ |
-| Chasis ↔ PSU (ATX/SFX/TFX) | [Tacens Anima APIII750](https://www.pccomponentes.com/fuente-alimentacion-tacens-anima-apiii750-fuente-alimentacion-atx-750w-85-bronze-ventilador-12cm-negro) + [Einarex Pulse P100](https://www.pccomponentes.com/torre-pc-caja-einarex-pulse-p100-core-atx-vidrio-templado-soporte-6-ventiladores-negra) | ✅ |
+| Chasis ↔ Placa base (ATX/mATX/ITX) | [Einarex Pulse P100 Core ATX](https://www.pccomponentes.com/torre-pc-caja-einarex-pulse-p100-core-atx-vidrio-templado-soporte-6-ventiladores-negra) + Micro‑ATX [Biostar H610MHC‑20](https://www.biostar.com.tw/app/es/mb/introduction.php?S_ID=1175&data-type=SPECIFICATIONS) | ✅ |
+| Chasis ↔ PSU (ATX/SFX/TFX) | [Tacens Anima APIII750](https://einarex.com/product/pulse-p100/) + [Einarex Pulse P100](https://www.pccomponentes.com/fuente-alimentacion-tacens-anima-apiii750-fuente-alimentacion-atx-750w-85-bronze-ventilador-12cm-negro) | ✅ |
 
 ---
 
@@ -265,4 +270,4 @@
 - ¿Qué opción elegirías para una oficina real y por qué?
  La mejor depende de la situacion, por ejemplo, si no tienes un presupuestop muy ajustado o mas tarde te gustaria ampliar el pc seria el por piezas **pero** si tienes un presupuesto ajustado y no tienes planes de ampliacion el mejor es el minipc
 - ¿Qué has aprendido sobre **compatibilidad**?
- Es muy importante que antes de montar los componentes la compatibilidad porque si no son compatibles los componentes no funcionarian entre si o si funcionaria pero o sin el maximo rendimiento o mas tarde dara problemas
+ Es muy importante que antes de montar los componentes ver la compatibilidad porque si no son compatibles los componentes no funcionarian entre si o si funcionaria pero o sin el maximo rendimiento o mas tarde dara problemas

@@ -42,7 +42,7 @@
 
 | Aspecto | Opción A (por piezas) | Opción B (Mini PC) |
 |---|---|---|
-| Precio total | 400,96 € | 139 € |
+| Precio total | 425,9€ | 139 € |
 | Rendimiento esperado (oficina) |CPU moderno (i3‑14100), ágil en multitarea, multimedia ligera |CPU básico (Intel J3710) suficiente para tareas básicas, web y ofimática |
 | Ampliación (RAM/SSD) | Se puede ampliar RAM, añadir SSD o GPU discreta | SSD ampliable, RAM fija a 8 GB |
 | Consumo/ruido/espacio | Mayor — torre con ventiladores, más consumo | Muy bajo — compacto, silencioso y eficiente |
